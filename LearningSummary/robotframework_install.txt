@@ -1,0 +1,16 @@
+robot framework自動化測試
+
+1.x64安裝AutoItLibrary,需安裝autoit-v3-setup;
+
+2.查看Python安裝的庫：pip list
+
+3.更新pip: python -m pip install -U pip 
+
+4.pip安裝庫:pip install **
+
+5.壓縮包安裝:解壓,DOS命令進入文件位置,python setup.py install
+
+6.打開RIDE:DOS命令 ride.py
+
+7.python環境設置:環境變量-path 添加c:\Python27;c:\Python27\Scripts
+
